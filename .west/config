@@ -1,0 +1,7 @@
+[manifest]
+path = blinky
+file = west.yml
+
+[zephyr]
+base = zephyr
+

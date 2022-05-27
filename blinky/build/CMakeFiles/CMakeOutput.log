@@ -1,0 +1,395 @@
+The target system is: Generic - 3.0.99 - arm
+The host system is: Windows - 10.0.19042 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/nrf/v1.9.1/toolchain/opt/bin/arm-none-eabi-gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.o"
+
+The C compiler identification is GNU, found in "C:/nrf_workspace/test_git3/blinky/build/CMakeFiles/3.20.5/CompilerIdC/CMakeCCompilerId.o"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/nrf/v1.9.1/toolchain/opt/bin/arm-none-eabi-gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.o"
+
+The CXX compiler identification is GNU, found in "C:/nrf_workspace/test_git3/blinky/build/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.o"
+
+Checking whether the ASM compiler is GNU using "--version" matched "(GNU assembler)|(GCC)|(Free Software Foundation)":
+arm-none-eabi-gcc.exe (GNU Tools for Arm Embedded Processors 9-2019-q4-major) 9.2.1 20191025 (release) [ARM/arm-9-branch revision 277599]
+Copyright (C) 2019 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nrf_workspace/test_git3/blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nrf/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_c8e97 && [1/2] Building C object CMakeFiles/cmTC_c8e97.dir/src.c.obj
+[2/2] Linking C executable cmTC_c8e97
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0_ succeeded with the following output:
+Change Dir: C:/nrf_workspace/test_git3/blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nrf/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_d4d86 && [1/2] Building C object CMakeFiles/cmTC_d4d86.dir/src.c.obj
+[2/2] Linking C executable cmTC_d4d86
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wpointer_sign_C__nostartfiles__nostdlib__isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nrf_workspace/test_git3/blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nrf/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_14b9e && [1/2] Building C object CMakeFiles/cmTC_14b9e.dir/src.c.obj
+[2/2] Linking C executable cmTC_14b9e
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wpointer_arith_C__nostartfiles__nostdlib__isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nrf_workspace/test_git3/blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nrf/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_1f29b && [1/2] Building C object CMakeFiles/cmTC_1f29b.dir/src.c.obj
+[2/2] Linking C executable cmTC_1f29b
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wexpansion_to_defined_C__nostartfiles__nostdlib__isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nrf_workspace/test_git3/blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nrf/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_37820 && [1/2] Building C object CMakeFiles/cmTC_37820.dir/src.c.obj
+[2/2] Linking C executable cmTC_37820
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wlogical_op_C__nostartfiles__nostdlib__isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nrf_workspace/test_git3/blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nrf/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_b2872 && [1/2] Building C object CMakeFiles/cmTC_b2872.dir/src.c.obj
+[2/2] Linking C executable cmTC_b2872
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wmissing_field_initializers_C__nostartfiles__nostdlib__isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nrf_workspace/test_git3/blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nrf/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_b2169 && [1/2] Building C object CMakeFiles/cmTC_b2169.dir/src.c.obj
+[2/2] Linking C executable cmTC_b2169
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wpacked_bitfield_compat_C__nostartfiles__nostdlib__isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nrf_workspace/test_git3/blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nrf/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_c41c4 && [1/2] Building C object CMakeFiles/cmTC_c41c4.dir/src.c.obj
+[2/2] Linking C executable cmTC_c41c4
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wvla_C__nostartfiles__nostdlib__isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nrf_workspace/test_git3/blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nrf/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_85826 && [1/2] Building C object CMakeFiles/cmTC_85826.dir/src.c.obj
+[2/2] Linking C executable cmTC_85826
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wunused_but_set_variable_C__nostartfiles__nostdlib__isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nrf_workspace/test_git3/blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nrf/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_5d418 && [1/2] Building C object CMakeFiles/cmTC_5d418.dir/src.c.obj
+[2/2] Linking C executable cmTC_5d418
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Werror_implicit_int_C__nostartfiles__nostdlib__isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nrf_workspace/test_git3/blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nrf/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_99450 && [1/2] Building C object CMakeFiles/cmTC_99450.dir/src.c.obj
+[2/2] Linking C executable cmTC_99450
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fno_freestanding_C__nostartfiles__nostdlib__isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nrf_workspace/test_git3/blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nrf/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_db376 && [1/2] Building C object CMakeFiles/cmTC_db376.dir/src.c.obj
+[2/2] Linking C executable cmTC_db376
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_gdwarf_4_C__nostartfiles__nostdlib__isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nrf_workspace/test_git3/blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nrf/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_c6f68 && [1/2] Building C object CMakeFiles/cmTC_c6f68.dir/src.c.obj
+[2/2] Linking C executable cmTC_c6f68
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl___print_memory_usage succeeded with the following output:
+Change Dir: C:/nrf_workspace/test_git3/blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nrf/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_93777 && [1/2] Building C object CMakeFiles/cmTC_93777.dir/src.c.obj
+[2/2] Linking C executable cmTC_93777
+Memory region         Used Size  Region Size  %age Used
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fsanitize_address succeeded with the following output:
+Change Dir: C:/nrf_workspace/test_git3/blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nrf/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_6161e && [1/2] Building C object CMakeFiles/cmTC_6161e.dir/src.c.obj
+[2/2] Linking C executable cmTC_6161e
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fsanitize_undefined succeeded with the following output:
+Change Dir: C:/nrf_workspace/test_git3/blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nrf/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_ec036 && [1/2] Building C object CMakeFiles/cmTC_ec036.dir/src.c.obj
+[2/2] Linking C executable cmTC_ec036
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__no_pie succeeded with the following output:
+Change Dir: C:/nrf_workspace/test_git3/blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nrf/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_e1eb3 && [1/2] Building C object CMakeFiles/cmTC_e1eb3.dir/src.c.obj
+[2/2] Linking C executable cmTC_e1eb3
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__mcpu_cortex_m33 succeeded with the following output:
+Change Dir: C:/nrf_workspace/test_git3/blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nrf/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_e38b2 && [1/2] Building C object CMakeFiles/cmTC_e38b2.dir/src.c.obj
+[2/2] Linking C executable cmTC_e38b2
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__mthumb succeeded with the following output:
+Change Dir: C:/nrf_workspace/test_git3/blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nrf/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_56058 && [1/2] Building C object CMakeFiles/cmTC_56058.dir/src.c.obj
+[2/2] Linking C executable cmTC_56058
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__mabi_aapcs succeeded with the following output:
+Change Dir: C:/nrf_workspace/test_git3/blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nrf/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_b7e4a && [1/2] Building C object CMakeFiles/cmTC_b7e4a.dir/src.c.obj
+[2/2] Linking C executable cmTC_b7e4a
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__mfp16_format_ieee succeeded with the following output:
+Change Dir: C:/nrf_workspace/test_git3/blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nrf/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_fff29 && [1/2] Building C object CMakeFiles/cmTC_fff29.dir/src.c.obj
+[2/2] Linking C executable cmTC_fff29
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl___gc_sections succeeded with the following output:
+Change Dir: C:/nrf_workspace/test_git3/blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nrf/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_92d36 && [1/2] Building C object CMakeFiles/cmTC_92d36.dir/src.c.obj
+[2/2] Linking C executable cmTC_92d36
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl___build_id_none succeeded with the following output:
+Change Dir: C:/nrf_workspace/test_git3/blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nrf/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_929d7 && [1/2] Building C object CMakeFiles/cmTC_929d7.dir/src.c.obj
+[2/2] Linking C executable cmTC_929d7
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl___sort_common_descending succeeded with the following output:
+Change Dir: C:/nrf_workspace/test_git3/blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nrf/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_26de6 && [1/2] Building C object CMakeFiles/cmTC_26de6.dir/src.c.obj
+[2/2] Linking C executable cmTC_26de6
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl___sort_section_alignment succeeded with the following output:
+Change Dir: C:/nrf_workspace/test_git3/blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nrf/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_943ec && [1/2] Building C object CMakeFiles/cmTC_943ec.dir/src.c.obj
+[2/2] Linking C executable cmTC_943ec
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__nostdlib succeeded with the following output:
+Change Dir: C:/nrf_workspace/test_git3/blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nrf/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_60382 && [1/2] Building C object CMakeFiles/cmTC_60382.dir/src.c.obj
+[2/2] Linking C executable cmTC_60382
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__static succeeded with the following output:
+Change Dir: C:/nrf_workspace/test_git3/blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nrf/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_427a7 && [1/2] Building C object CMakeFiles/cmTC_427a7.dir/src.c.obj
+[2/2] Linking C executable cmTC_427a7
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl__X succeeded with the following output:
+Change Dir: C:/nrf_workspace/test_git3/blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nrf/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_98ea4 && [1/2] Building C object CMakeFiles/cmTC_98ea4.dir/src.c.obj
+[2/2] Linking C executable cmTC_98ea4
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl__N succeeded with the following output:
+Change Dir: C:/nrf_workspace/test_git3/blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nrf/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_62588 && [1/2] Building C object CMakeFiles/cmTC_62588.dir/src.c.obj
+[2/2] Linking C executable cmTC_62588
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl___orphan_handling_warn succeeded with the following output:
+Change Dir: C:/nrf_workspace/test_git3/blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nrf/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_81182 && [1/2] Building C object CMakeFiles/cmTC_81182.dir/src.c.obj
+[2/2] Linking C executable cmTC_81182
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fno_asynchronous_unwind_tables_C__nostartfiles__nostdlib__isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nrf_workspace/test_git3/blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nrf/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_1acaa && [1/2] Building C object CMakeFiles/cmTC_1acaa.dir/src.c.obj
+[2/2] Linking C executable cmTC_1acaa
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fno_pie_C__nostartfiles__nostdlib__isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nrf_workspace/test_git3/blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nrf/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_07e7a && [1/2] Building C object CMakeFiles/cmTC_07e7a.dir/src.c.obj
+[2/2] Linking C executable cmTC_07e7a
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fno_pic_C__nostartfiles__nostdlib__isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nrf_workspace/test_git3/blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nrf/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_9b6f3 && [1/2] Building C object CMakeFiles/cmTC_9b6f3.dir/src.c.obj
+[2/2] Linking C executable cmTC_9b6f3
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fno_reorder_functions_C__nostartfiles__nostdlib__isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nrf_workspace/test_git3/blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nrf/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_0991d && [1/2] Building C object CMakeFiles/cmTC_0991d.dir/src.c.obj
+[2/2] Linking C executable cmTC_0991d
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fno_defer_pop_C__nostartfiles__nostdlib__isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nrf_workspace/test_git3/blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nrf/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_a5534 && [1/2] Building C object CMakeFiles/cmTC_a5534.dir/src.c.obj
+[2/2] Linking C executable cmTC_a5534
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fmacro_prefix_map_C__nrf_workspace_test_git3_blinky_CMAKE_SOURCE_DIR_C__nostartfiles__nostdlib__isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nrf_workspace/test_git3/blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nrf/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_ed504 && [1/2] Building C object CMakeFiles/cmTC_ed504.dir/src.c.obj
+[2/2] Linking C executable cmTC_ed504
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fmacro_prefix_map_C__nrf_workspace_test_git3_zephyr_ZEPHYR_BASE_C__nostartfiles__nostdlib__isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nrf_workspace/test_git3/blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nrf/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_5283d && [1/2] Building C object CMakeFiles/cmTC_5283d.dir/src.c.obj
+[2/2] Linking C executable cmTC_5283d
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fmacro_prefix_map_C__nrf_workspace_test_git3_WEST_TOPDIR_C__nostartfiles__nostdlib__isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nrf_workspace/test_git3/blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nrf/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_80737 && [1/2] Building C object CMakeFiles/cmTC_80737.dir/src.c.obj
+[2/2] Linking C executable cmTC_80737
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_ffunction_sections_C__nostartfiles__nostdlib__isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nrf_workspace/test_git3/blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nrf/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_4e364 && [1/2] Building C object CMakeFiles/cmTC_4e364.dir/src.c.obj
+[2/2] Linking C executable cmTC_4e364
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fdata_sections_C__nostartfiles__nostdlib__isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem__c__nrf_v1_9_1_toolchain_opt_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: C:/nrf_workspace/test_git3/blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/nrf/v1.9.1/toolchain/opt/bin/ninja.exe cmTC_c0424 && [1/2] Building C object CMakeFiles/cmTC_c0424.dir/src.c.obj
+[2/2] Linking C executable cmTC_c0424
+
+
+Source file was:
+int main(void) { return 0; }

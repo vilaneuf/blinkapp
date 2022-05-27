@@ -1,0 +1,13 @@
+manifest:
+  remotes:
+    - name: ncs
+      url-base: https://github.com/vilaneuf
+  projects:
+    - name: sdk-nrf
+      remote: ncs
+      path: nrf
+      revision: v2.1.0-test
+      import: true
+      clone-depth: 1
+  self:
+    path: blinky
